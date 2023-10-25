@@ -1,15 +1,15 @@
 {
     "Personas":[
         {
-            "Id": 1,
+            "id": 1,
             "Nombres": "Greilyn Polanco"
         },
         {
-            "Id": 2,
+            "id": 2,
             "Nombres": "Lisbeth Ortega"
         },
         {
-            "Id": 3,
+            "id": 3,
             "Nombres": "Wilber Galvez"
         }
     ],
