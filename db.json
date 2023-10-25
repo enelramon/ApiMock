@@ -1,4 +1,18 @@
 {
+    "Personas":[
+        {
+            "Id": 1,
+            "Nombres": "Greilyn Polanco"
+        },
+        {
+            "Id": 2,
+            "Nombres": "Lisbeth Ortega"
+        },
+        {
+            "Id": 3,
+            "Nombres": "Wilber Galvez"
+        }
+    ],
     "Documentos": [
         {
             "Numero": 346012.0,
