@@ -135,5 +135,161 @@
             "MinAppVersion": "",
             "MensajeError": null
         }
+    ],
+    "Clientes": [
+        {
+            "CodigoCliente": 31766,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ABEL",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31335,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ABELITO CASTILLO",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31477,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADA RODRIGUEZ",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 362,
+            "Rnc": "088-0003945-8",
+            "TipoNcf": 0,
+            "Nombres": "ADALGISA YNES ACOSTA POLONIA",
+            "Empresa": "EL SAZON DE ADA/ANTIGUO WANLY",
+            "Direccion": "C/PRINCIPAL, POR EL PARQUE, VILLA TAPIA",
+            "Telefono": "809-970-4912",
+            "DescuentoxGalon": 5.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 715,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADELSO DE JESUS",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31641,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADON MARIA ORTEGA",
+            "Empresa": "POLITECNICO VICENTE AQUILINO SANTOS",
+            "Direccion": "AV FRANCISCO CAAMAÑO DE ÑO",
+            "Telefono": "809-588-5630",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31136,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADRIANO CONCEPCION",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31202,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADRIANO DE JESUS",
+            "Empresa": "INVERSIONES DE JESUS HERNANDEZ",
+            "Direccion": "",
+            "Telefono": "809-290-9026",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 763,
+            "Rnc": "056-0152799-6",
+            "TipoNcf": 1,
+            "Nombres": "ADRIANO ROSARIO PE?A",
+            "Empresa": "NANO REPOSTERIA",
+            "Direccion": "c/ COLON AL LADO DEL COMEDOR ECONOMICO",
+            "Telefono": "",
+            "DescuentoxGalon": 3.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 606,
+            "Rnc": "",
+            "TipoNcf": 0,
+            "Nombres": "ADRIANO UREÑA",
+            "Empresa": "",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 239,
+            "Rnc": "104016165",
+            "TipoNcf": 1,
+            "Nombres": "AGENTE DE CAMBIO PAULINO & ASOCIADOS S A",
+            "Empresa": "HECTOR PAULINO",
+            "Direccion": "FINCA",
+            "Telefono": "",
+            "DescuentoxGalon": 3.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31267,
+            "Rnc": "104016165",
+            "TipoNcf": 1,
+            "Nombres": "AGENTE DE CAMBIO PAULINO & ASOCIADOS S A/",
+            "Empresa": "HECTOR PAULINO ( CASA",
+            "Direccion": "",
+            "Telefono": "",
+            "DescuentoxGalon": 3.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31133,
+            "Rnc": "056-0060031-5",
+            "TipoNcf": 0,
+            "Nombres": "AGRIPINA MARIA DE FABRE",
+            "Empresa": "COMEDOR GRAN PARADA",
+            "Direccion": "GRAN PARADA TENARES",
+            "Telefono": "809-577-9843",
+            "DescuentoxGalon": 0.0,
+            "Limite": 15000.0
+        },
+        {
+            "CodigoCliente": 31892,
+            "Rnc": "056-0093577-8",
+            "TipoNcf": 0,
+            "Nombres": "AGRIPINA SANTOS GARCIA",
+            "Empresa": "D PIN COMIDA Y CENA",
+            "Direccion": "LOS RIELES, SFM",
+            "Telefono": "809-386-1254",
+            "DescuentoxGalon": 3.0,
+            "Limite": 0.0
+        }
     ]
 }
